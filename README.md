@@ -14,7 +14,7 @@
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
   <img align="center" alt="Miguel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="right" alt="Miguel-Gif" height="150" width="150" src="https://avatars.githubusercontent.com/u/73616916?v=4"/>
+  <img align="right" alt="Miguel-Gif" height="150" width="200" src="https://56e9af4bb89f1d73465cbd39.static-01.com/f/images/b0ef4a98c9ef4551c8f6ff8f0a5b75abd176a96b.gif"/>
 </div>
  
   ##
