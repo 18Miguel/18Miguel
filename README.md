@@ -1,4 +1,4 @@
-### Hi I'm Miguel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi!">
+### Hi I'm Miguel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="Hi!">
 
 <div>
   <!-- [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md] -->    
