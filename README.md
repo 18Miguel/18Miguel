@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Miguel 👋
 
 <div>
   <!-- [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md] -->    
