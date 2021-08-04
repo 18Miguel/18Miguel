@@ -4,7 +4,7 @@
   <!-- [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md] -->    
   <a href="https://github.com/SnowZone18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowZone18&show_icons=true&bg_color=0d1117&hide_border=true&title_color=d285ff&text_color=ffffff&icon_color=d285ff&border_color=63a6fc&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0d1117&hide_border=true&title_color=d285ff&text_color=ffffff&icon_color=d285ff&border_color=63a6fc&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0d1117&hide_border=true&title_color=d285ff&text_color=ffffff&icon_color=d285ff&border_color=63a6fc&count_private=true&langs_count=8"/>
 </div>
 
 <div style="display: inline_block"><br>
