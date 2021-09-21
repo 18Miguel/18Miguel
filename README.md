@@ -23,7 +23,6 @@
 <div>
   <a href = "mailto:miguelnevesfr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelfneves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a>
 
   ![Snake animation](https://github.com/18Miguel/18Miguel/blob/output/github-contribution-grid-snake.svg)
 </div>
