@@ -8,13 +8,15 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <!-- <img align="center" alt="Miguel-" height="30" width="40" src="#"/> -->
-  <img align="center" alt="Miguel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"/>
-  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-  <img align="center" alt="Miguel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="right" alt="Miguel-Gif" height="160" width="120" src="https://cdn.discordapp.com/attachments/849222404206100510/887358233738633246/Miguel-Gif.gif"/>
+  <a href="https://github.com/18Miguel">
+    <!-- <img align="center" alt="Miguel-" height="30" width="40" src="#"/> -->
+    <img align="center" alt="Miguel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
+    <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"/>
+    <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+    <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+    <img align="center" alt="Miguel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img align="right" alt="Miguel-Gif" height="160" width="120" src="https://cdn.discordapp.com/attachments/849222404206100510/887358233738633246/Miguel-Gif.gif"/>
+  </a>
 </div>
  
   ##
