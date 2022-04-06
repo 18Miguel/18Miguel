@@ -1,9 +1,9 @@
-### Hi, I'm Miguel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="Hi!">
+### Hi, I'm Miguel ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="Hi!">
 
-<div style="display: flex; width: 100%;"><!-- [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md] -->
+<div align="center"><!-- [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md] -->
   <a href="https://github.com/18Miguel">
-     <img style="width: 50%; height: auto; justify-content: center;" src="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true"/>
-    <img style="width: 50%; height: auto; justify-content: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&langs_count=10"/>
+     <img width="auto" src="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true"/>
+    <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&langs_count=10"/>
   </a>
 </div>
 
