@@ -2,8 +2,8 @@
 
 <div style="display: flex;"><!-- [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md] -->
   <a href="https://github.com/18Miguel">
-     <img style="display: flex; justify-content: center;" src="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true"/>
-    <img style="display: flex; justify-content: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&langs_count=10"/>
+     <img style="width: auto; height: auto; justify-content: center;" src="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true"/>
+    <img style="width: auto; height: auto; justify-content: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&langs_count=10"/>
   </a>
 </div>
 
