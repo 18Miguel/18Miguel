@@ -8,11 +8,13 @@
   </a>
 </div>
 
+#
+
 <div style="display: inline_block;"><br>
   <a href="#">
     <!-- <img align="center" alt="Miguel-" height="30" width="30" src="#"/> -->
     <img align="center" alt="Miguel-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
-    <img align="center" alt="Miguel-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"/>
+    <img align="center" alt="Miguel-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="Miguel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
     <img align="center" alt="Miguel-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
     <img align="center" alt="Miguel-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -22,13 +24,14 @@
   </a>
 </div>
  
-  ##
-  ##
+#
 
 <div>
   <a href = "mailto:miguel.ferreira.neves.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelfneves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+
+#
+
   ![Snake animation](https://github.com/18Miguel/18Miguel/blob/output/github-contribution-grid-snake.svg)
 </div>
   
