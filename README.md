@@ -10,8 +10,6 @@
   </a>
 </div>
 
-#
-
 <div style="display: inline_block;"><br>
   <a href="#">
     <!-- <img align="center" alt="Miguel-" height="30" width="30" src="#"/> -->
@@ -25,14 +23,13 @@
     <img align="right" alt="Miguel-Gif" height="160" width="120" src="https://cdn.discordapp.com/attachments/849222404206100510/887358233738633246/Miguel-Gif.gif"/>
   </a>
 </div>
- 
+
 #
 
 <div>
   <a href = "mailto:miguel.ferreira.neves.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelfneves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-#
 
   ![Snake animation](https://github.com/18Miguel/18Miguel/blob/output/github-contribution-grid-snake.svg)
 </div>
