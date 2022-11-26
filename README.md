@@ -15,6 +15,7 @@
   <a href="#">
     <!-- <img align="center" alt="Miguel-" height="30" width="30" src="#"/> -->
     <img align="center" alt="Miguel-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
+    <img align="center" alt="Miguel-C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
     <img align="center" alt="Miguel-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="Miguel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
     <img align="center" alt="Miguel-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
