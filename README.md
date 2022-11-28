@@ -22,8 +22,8 @@
     <img align="center" alt="Miguel-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="Miguel-NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
     <img align="center" alt="Miguel-ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="center" alt="Miguel-ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-    <img align="center" alt="Miguel-ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+    <img align="center" alt="Miguel-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+    <img align="center" alt="Miguel-Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
     <img align="right" alt="Miguel-Gif" height="160" width="120" src="https://cdn.discordapp.com/attachments/849222404206100510/887358233738633246/Miguel-Gif.gif"/>
   </a>
 </div>
