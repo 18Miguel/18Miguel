@@ -4,10 +4,18 @@
 <!-- [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md] -->
 <div align="center">
   <a href="#">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true">
+      <img alt="My GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true">
+    </picture>
   </a>
   <a href="https://bit.ly/3yZoaT6">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=fff&icon_color=8f81c4&border_color=63a6fc&langs_count=10"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=fff&icon_color=8f81c4&border_color=63a6fc&langs_count=10">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&langs_count=10">
+      <img alt="Most used languanges" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&langs_count=10">
+    </picture>
   </a>
 </div>
 
