@@ -30,10 +30,12 @@
   <a href="#Kotlin"><img align="center" alt="Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/></a>
   <a href="#Python"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
   <b>&nbsp;|&nbsp;</b>
-  <a href="#Node.js"><img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/></a>
+  <a href="#Node.js"><img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>
   <a href="#React.js"><img align="center" alt="ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>
   <a href="#Next.js"><img align="center" alt="NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/></a>
+  <a href="#Tailwind CSS"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/></a>
   <a href="#GraphQL"><img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></a>
+  <a href="#SQLite"><img align="center" alt="SQLite" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/></a>
   <b>&nbsp;|&nbsp;</b>
   <a href="#VSCode"><img align="center" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
   <b>&nbsp;Lover</b>
