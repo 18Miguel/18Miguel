@@ -19,23 +19,23 @@
   </a>
 </div>
 <div align="justify">
-  <a href="#"><img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a>
-  <a href="#"><img align="center" alt="TS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/></a>
-  <a href="#"><img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/></a>
-  <a href="#"><img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/></a>
-  <a href="#"><img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/></a>
-  <a href="#"><img align="center" alt="C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/></a>
-  <a href="#"><img align="center" alt="C Sharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/></a>
-  <a href="#"><img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
-  <a href="#"><img align="center" alt="Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/></a>
-  <a href="#"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+  <a href="#JS"><img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a>
+  <a href="#TS"><img align="center" alt="TS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/></a>
+  <a href="#HTML"><img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/></a>
+  <a href="#CSS"><img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/></a>
+  <a href="#C"><img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/></a>
+  <a href="#C++"><img align="center" alt="C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/></a>
+  <a href="#C Sharp"><img align="center" alt="C Sharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/></a>
+  <a href="#Java"><img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
+  <a href="#Kotlin"><img align="center" alt="Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/></a>
+  <a href="#Python"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
   <b>&nbsp;|&nbsp;</b>
-  <a href="#"><img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/></a>
-  <a href="#"><img align="center" alt="ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>
-  <a href="#"><img align="center" alt="NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/></a>
-  <a href="#"><img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></a>
+  <a href="#Node.js"><img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/></a>
+  <a href="#React.js"><img align="center" alt="ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>
+  <a href="#Next.js"><img align="center" alt="NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/></a>
+  <a href="#GraphQL"><img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></a>
   <b>&nbsp;|&nbsp;</b>
-  <a href="#"><img align="center" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
+  <a href="#VSCode"><img align="center" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
   <b>&nbsp;Lover</b>
   <img align="right" alt="Miguel-Gif" height="160" width="120" src="https://cdn.discordapp.com/attachments/849222404206100510/887358233738633246/Miguel-Gif.gif"/>
 </div>
