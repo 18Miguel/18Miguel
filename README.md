@@ -31,6 +31,7 @@
   <a href="#Python"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
   <b>&nbsp;|&nbsp;</b>
   <a href="#Node.js"><img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>
+  <a href="#.NET"><img align="center" alt=".NET" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/></a>
   <a href="#React.js"><img align="center" alt="ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>
   <a href="#Next.js"><img align="center" alt="NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/></a>
   <a href="#Tailwind CSS"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/></a>
