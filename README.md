@@ -40,7 +40,6 @@
   <b>&nbsp;|&nbsp;</b>
   <a href="#VSCode"><img align="center" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
   <b>&nbsp;Lover</b>
-  <img align="right" alt="Miguel-Gif" height="160" width="120" src="https://cdn.discordapp.com/attachments/849222404206100510/887358233738633246/Miguel-Gif.gif"/>
 </div>
 
 #
