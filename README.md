@@ -36,6 +36,7 @@
   <a href="#Next.js"><img align="center" alt="NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/></a>
   <a href="#Tailwind CSS"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/></a>
   <a href="#GraphQL"><img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></a>
+  <a href="#JSON"><img align="center" alt="JSON" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg"/></a>
   <a href="#SQLite"><img align="center" alt="SQLite" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/></a>
   <b>&nbsp;|&nbsp;</b>
   <a href="#VSCode"><img align="center" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
