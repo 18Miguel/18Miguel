@@ -25,7 +25,7 @@
   <a href="#CSS"><img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/></a>
   <a href="#C"><img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/></a>
   <a href="#C++"><img align="center" alt="C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/></a>
-  <a href="#C Sharp"><img align="center" alt="C Sharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/></a>
+  <a href="#CSharp"><img align="center" alt="C Sharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/></a>
   <a href="#Java"><img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
   <a href="#Kotlin"><img align="center" alt="Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/></a>
   <a href="#Python"><img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
@@ -34,7 +34,7 @@
   <a href="#.NET"><img align="center" alt=".NET" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/></a>
   <a href="#React.js"><img align="center" alt="ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>
   <a href="#Next.js"><img align="center" alt="NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/></a>
-  <a href="#Tailwind CSS"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/></a>
+  <a href="#TailwindCSS"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/></a>
   <a href="#GraphQL"><img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></a>
   <a href="#JSON"><img align="center" alt="JSON" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg"/></a>
   <a href="#SQLite"><img align="center" alt="SQLite" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/></a>
