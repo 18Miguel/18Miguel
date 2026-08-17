@@ -1,8 +1,10 @@
 name: Update Profile Cards
 
 on:
+  # run automatically every 12 hours
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 */12 * * *" 
+
   workflow_dispatch:
 
 jobs:
