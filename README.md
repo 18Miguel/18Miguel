@@ -5,16 +5,14 @@
 <div align="center">
   <a href="#">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=ffffff&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true">
-      <img alt="My GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=18Miguel&show_icons=true&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/stats-dark.svg">
+      <img alt="My GitHub stats" height="180em" src="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/stats.svg">
     </picture>
   </a>
   <a href="https://bit.ly/3yZoaT6">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=0d1117&hide_border=true&title_color=8f81c4&text_color=fff&icon_color=8f81c4&border_color=63a6fc&langs_count=10">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&langs_count=10">
-      <img alt="Most used languanges" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Miguel&layout=compact&bg_color=ffffff&hide_border=true&title_color=5b47de&text_color=404040&icon_color=8f81c4&border_color=63a6fc&langs_count=10">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/top-langs-dark.svg">
+      <img alt="Most used languanges" height="180em" src="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/top-langs.svg">
     </picture>
   </a>
 </div>
@@ -51,7 +49,6 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/18Miguel/18Miguel/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
