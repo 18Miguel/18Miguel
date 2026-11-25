@@ -171,27 +171,38 @@
 
               <ul class="mt-4 list-disc space-y-3 pl-4 text-sm leading-6 text-[#514c3f] marker:text-olive">
                 <li>
-                  Develop and maintain DeepGrid, an operational analytics web application
-                  for the low voltage electricity grid, as part of a six-person software
-                  development team, delivering features from requirements through
-                  implementation and testing.
+                  Work on DeepGrid, an operational analytics platform that grid operators use
+                  to monitor and control the low voltage electricity grid.
+                  Part of a six-person team, taking features from
+                  requirements through implementation and testing.
                 </li>
-              
                 <li>
-                  Build and improve frontend functionality using Next.js and React,
-                  maintain automated tests with Vitest, and contribute to CI/CD workflows
-                  using GitHub Actions for automated builds and Docker image creation.
+                  Created the new DeepGrid web app with Next.js and React.
+                  It runs side by side with the legacy app, so pages
+                  move over one at a time without a rewrite.
                 </li>
-              
                 <li>
-                  Team Scrum Master since April 2026, alongside development, facilitating
-                  ceremonies, removing impediments, and supporting team coordination and
-                  continuous improvement.
+                  Built authentication with Keycloak (OIDC): token refresh,
+                  automatic retry on expired sessions and permission-based page access.
+                  Created the app’s typed fetch client and moved seven backend API clients onto it.
                 </li>
-              
                 <li>
-                  Supported a one-month Kanban trial in August 2026, after which the team
-                  went back to Scrum.
+                  Built the interactive network map (Leaflet, GeoJSON, clustering, layers, search, details)
+                  and a high voltage fault location view that helps operators find where a line is down.
+                </li>
+                <li>
+                  Contributed most of the company’s shared React component library.
+                  Migrated the legacy components and built new ones on Radix UI and Base UI, 
+                  with Storybook docs, Vitest tests and Chromatic visual review.
+                </li>
+                <li>
+                  Set up Sentry and Mixpanel, Docker and Kubernetes deployment, 
+                  and GitHub Actions workflows. Upgraded the stack to React 19 and TypeScript 6. 
+                  Wrote Claude Code skills for translations and end-to-end tests.
+                </li>
+                <li>
+                  Team Scrum Master since April 2026, alongside development:
+                  facilitating ceremonies, removing impediments and supporting continuous improvement.
                 </li>
               </ul>
             </div>
