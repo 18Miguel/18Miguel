@@ -5,14 +5,14 @@
 <div align="center">
   <a href="#">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/stats-dark.svg">
-      <img alt="My GitHub stats" height="180em" src="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/stats.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/profile-cards/stats-dark.svg">
+      <img alt="My GitHub stats" height="180em" src="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/profile-cards/stats.svg">
     </picture>
   </a>
   <a href="https://bit.ly/3yZoaT6">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/top-langs-dark.svg">
-      <img alt="Most used languanges" height="180em" src="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/output/profile/top-langs.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/profile-cards/top-langs-dark.svg">
+      <img alt="Most used languanges" height="180em" src="https://raw.githubusercontent.com/18Miguel/18Miguel/refs/heads/profile-cards/top-langs.svg">
     </picture>
   </a>
 </div>
