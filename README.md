@@ -47,8 +47,7 @@
   <a href="https://gist.github.com/18Miguel" target="_blank"><img src="https://img.shields.io/badge/-Gists-212830?logo=github"></a>
   <a href="mailto:miguel.ferreira.neves.pro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/miguelf-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://gist.github.com/18Miguel" target="_blank"><img src="https://img.shields.io/badge/Curriculum_Vit%C3%A6-c9bea5?logo=Read.cv
-  "></a>
+  <a href="https://18miguel.github.io/18Miguel/" target="_blank"><img src="https://img.shields.io/badge/Curriculum_Vit%C3%A6-c9bea5?logo=Read.cv"></a>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Miguel/18Miguel/output/github-contribution-grid-snake-dark.svg">
